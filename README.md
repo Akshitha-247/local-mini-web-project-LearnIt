@@ -1,1 +1,1 @@
-# lvcal-mini-web-project-LearnIt
+# local-mini-web-project-LearnIt
